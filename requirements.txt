@@ -3,5 +3,5 @@ pyasn1==0.4.8
 pysocks==1.7.1
 python-dotenv==0.17.1
 rsa==4.7.2; python_version >= '3.5' and python_version < '4'
-telethon==1.21.1
+telethon
 tqdm==4.60.0
